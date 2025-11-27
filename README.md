@@ -50,7 +50,7 @@
 ### 🔹 [Phaser Coin Game](https://github.com/Kavinda-Gayashan-Hettige/Phaser-Coin-Game)
 > Using Google AI studio and JavaScript library.
 
-### 🔹 Burger Shop](https://github.com/Kavinda-Gayashan-Hettige/Burger-Shop-Full-Stack-Project)
+### 🔹 [Burger Shop](https://github.com/Kavinda-Gayashan-Hettige/Burger-Shop-Full-Stack-Project)
 > Backend Java Spring Boot and Frontend HTML CSS JavaScript.
 
 ---
