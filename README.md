@@ -1,14 +1,14 @@
 # 👋 Hi there! I'm Kavinda Gayashan Hettige
 
-🚀 Passionate Software Developer | Full-Stack Enthusiast | Java & Angular Lover  
+🚀 Passionate Software Developer | Full-Stack Enthusiast | Java Lover  
 🎯 Striving to build scalable, efficient, and beautiful software solutions  
-🌱 Currently learning: Spring Boot | Flutter | Advanced Angular  
+🌱 Currently learning: Spring Boot | React   
 
 ---
 
 ## 💼 About Me
 
-- 💻 I love working on **Java**, **Spring Boot**, **Angular**, and **JavaFX** projects  
+- 💻 I love working on **Java**, **Spring Boot**,**React**, **Angular**, and **JavaFX** projects  
 - 🔭 I previously worked on:  
   - **Pharmacy Inventory Management System** 
   - **Education Management System (LMS)**  
@@ -46,6 +46,12 @@
 
 ### 🔹 [JavaFX POS System](https://github.com/kavinda1996/112-JavaFX-Thogakade)
 > A modern POS system with JavaFX GUI and OOP design patterns.
+
+### 🔹 [Phaser Coin Game](https://github.com/Kavinda-Gayashan-Hettige/Phaser-Coin-Game)
+> Using Google AI studio and JavaScript library.
+
+### 🔹 Burger Shop](https://github.com/Kavinda-Gayashan-Hettige/Burger-Shop-Full-Stack-Project)
+> Backend Java Spring Boot and Frontend HTML CSS JavaScript.
 
 ---
 
