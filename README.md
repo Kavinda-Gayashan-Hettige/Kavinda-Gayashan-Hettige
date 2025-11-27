@@ -10,9 +10,9 @@
 
 - 💻 I love working on **Java**, **Spring Boot**, **Angular**, and **JavaFX** projects  
 - 🔭 I previously worked on:  
-  - **Employee Management System** (Angular + Spring Boot)  
-  - **Customer Full-Stack App**  
-  - **JavaFX-based POS System**  
+  - **Pharmacy Inventory Management System** 
+  - **Education Management System (LMS)**  
+    
 - 📫 Reach me at:  
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:gayashankavinda95@gmail.com)  
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/kavinda-gayashan-hettige-9116aa309)
