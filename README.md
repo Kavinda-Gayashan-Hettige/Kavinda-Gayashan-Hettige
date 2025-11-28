@@ -58,9 +58,9 @@
 
 ## 📊 GitHub Stats
 
-![Kavinda's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kavinda1996&show_icons=true&theme=tokyonight)
+![Kavinda's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kavinda-Gayashan-Hettige&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kavinda1996&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kavinda-Gayashan-Hettige&layout=compact&theme=tokyonight)
 
 ---
 
