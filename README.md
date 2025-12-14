@@ -10,7 +10,7 @@
 
 - 💻 I love working on **Java**, **Spring Boot**,**React**, **Angular**, and **JavaFX** projects  
 - 🔭 I previously worked on:  
-  - **Pharmacy Inventory Management System** 
+  
   - **Education Management System (LMS)**  
     
 - 📫 Reach me at:  
