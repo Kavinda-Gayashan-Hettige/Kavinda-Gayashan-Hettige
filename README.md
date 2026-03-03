@@ -82,11 +82,14 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kavinda-Gayashan-Hettige&show_icons=true&theme=tokyonight" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kavinda-Gayashan-Hettige&layout=compact&theme=tokyonight" />
-</div>
+
+### 🔥 Contribution Streak
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Kavinda-Gayashan-Hettige&theme=tokyonight)](https://git.io/streak-stats)
+
+### 🏆 Achievements
+
+![trophy](https://github-profile-trophy.vercel.app/?username=Kavinda-Gayashan-Hettige&theme=tokyonight&no-frame=true&row=1&column=4)
 
 ### 📌 Pinned Projects
 
