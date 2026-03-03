@@ -82,9 +82,11 @@
 
 ## 📊 GitHub Stats
 
-[![Kavinda's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kavinda-Gayashan-Hettige&show_icons=true&theme=tokyonight)](https://github.com/Kavinda-Gayashan-Hettige)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kavinda-Gayashan-Hettige&layout=compact&theme=tokyonight)](https://github.com/Kavinda-Gayashan-Hettige)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kavinda-Gayashan-Hettige&show_icons=true&theme=tokyonight" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kavinda-Gayashan-Hettige&layout=compact&theme=tokyonight" />
+</div>
 
 ### 📌 Pinned Projects
 
