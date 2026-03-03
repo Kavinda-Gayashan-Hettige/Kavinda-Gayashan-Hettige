@@ -38,7 +38,7 @@
 
 ## 📂 Featured Projects
 
-### 🔹 [Mental Wellness Journal System](https://github.com/Kavinda-Gayashan-Hettige/Mental-Wellness-Journal-System-)
+### 🔹 [Mental Wellness Journal System](https://github.com/CalmCode-Solutions/Mental-Wellness-Journal-System-)
 > ![Completed](https://img.shields.io/badge/status-completed-brightgreen)
 > ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
 > ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
@@ -87,13 +87,6 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Kavinda-Gayashan-Hettige&theme=tokyonight)](https://git.io/streak-stats)
 
-### 🏆 Achievements
-
-![trophy](https://github-profile-trophy.vercel.app/?username=Kavinda-Gayashan-Hettige&theme=tokyonight&no-frame=true&row=1&column=4)
-
-### 📌 Pinned Projects
-
-[![Mental Wellness Journal System](https://github-readme-stats.vercel.app/api/pin/?username=Kavinda-Gayashan-Hettige&repo=Mental-Wellness-Journal-System-&theme=tokyonight)](https://github.com/CalmCode-Solutions/Mental-Wellness-Journal-System-)
 
 ---
 
