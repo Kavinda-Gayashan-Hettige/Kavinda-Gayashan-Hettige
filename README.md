@@ -88,7 +88,7 @@
 
 ### 📌 Pinned Projects
 
-[![Mental Wellness Journal System](https://github-readme-stats.vercel.app/api/pin/?username=Kavinda-Gayashan-Hettige&repo=Mental-Wellness-Journal-System-&theme=tokyonight)](https://github.com/Kavinda-Gayashan-Hettige/Mental-Wellness-Journal-System-)
+[![Mental Wellness Journal System](https://github-readme-stats.vercel.app/api/pin/?username=Kavinda-Gayashan-Hettige&repo=Mental-Wellness-Journal-System-&theme=tokyonight)](https://github.com/CalmCode-Solutions/Mental-Wellness-Journal-System-)
 
 ---
 
