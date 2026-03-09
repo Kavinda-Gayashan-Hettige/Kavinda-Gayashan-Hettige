@@ -37,8 +37,8 @@
 ---
 ## 🥇 Badges of certificate courses
 
-<img src="https://raw.githubusercontent.com/nisalgunawardhana/docker-101/main/images/badge.png" width="300">
-<img src="https://raw.githubusercontent.com/nisalgunawardhana/Github-for-beginners/main/images/badge.png" width="300">
+<img src="https://raw.githubusercontent.com/nisalgunawardhana/docker-101/main/images/badge.png" width="200">
+<img src="https://raw.githubusercontent.com/nisalgunawardhana/Github-for-beginners/main/images/badge.png" width="200">
 
 ---
 
