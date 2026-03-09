@@ -35,7 +35,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ---
-## 🥇 Badges of certificate courses
+## 🥇 Badges of successfully completed courses
 
 <img src="https://raw.githubusercontent.com/nisalgunawardhana/docker-101/main/images/badge.png" width="200">
 <img src="https://raw.githubusercontent.com/nisalgunawardhana/Github-for-beginners/main/images/badge.png" width="200">
