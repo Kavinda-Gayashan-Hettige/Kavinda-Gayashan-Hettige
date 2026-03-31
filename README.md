@@ -1,113 +1,90 @@
-# 👋 Hi there! I'm Kavinda Gayashan Hettige
+<div align="center">
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&reversal=true&text=Kavinda%20Gayashan&fontSize=40&animation=fadeIn" />
+</div>
 
-![](https://komarev.com/ghpvc/?username=Kavinda-Gayashan-Hettige&color=blue&style=flat)
+<div align="center">
+  <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="120px"></picture>
+</div>
 
-🚀 Passionate Software Developer | Full-Stack Enthusiast | Java Lover  
-🎯 Striving to build scalable, efficient, and beautiful software solutions  
-🌱 Currently learning: Spring Boot | React   
+<h1 align="center">Hi, I'm Kavinda Gayashan Hettige <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
----
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</p>
 
-## 💼 About Me
+<table>
+  <tr>
+    <td>
+      <h3>🚀 Passionate Software Developer</h3>
+      <p>I love working on <b>Java, Spring Boot, React, Angular, and JavaFX</b> projects. I strive to build scalable, efficient, and beautiful software solutions.</p>
+      
+      <h3>🌱 Currently Learning</h3>
+      <p>Spring Boot | React | Advanced Cloud Architecture</p>
 
-- 💻 I love working on **Java**, **Spring Boot**, **React**, **Angular**, and **JavaFX** projects  
-- 🔭 I previously worked on:  
-  
-  - **Mental Wellness Journal System** - A full-stack application for mental health tracking and journaling
-  
-- 📫 Reach me at:  
-  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:gayashankavinda95@gmail.com)  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/kavinda-gayashan-hettige-9116aa309)
+      <h3>📫 How to reach me</h3>
+      <p><b>gayashankavinda95@gmail.com</b></p>
+      
+      <h3>⚡ Fun fact</h3>
+      <p>When I'm not coding, I'm exploring new technologies to solve real-world problems. I treat my code like a garden — I plant ideas and remove bugs like weeds!</p>
+    </td>
+    <td>
+      <img align="right" alt="Coding" width="280" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif">
+    </td>
+  </tr>
+</table>
 
----
+<br>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</p>
 
-## 🛠️ Tech Stack
+<div align="center">
+  <h2>👨🏻‍💻 Technologies That I Know</h2>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,angular,react,js,ts,html,css,mysql,bootstrap,git,postman,docker,figma&perline=10" />
+  </a>
+</div>
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![JavaFX](https://img.shields.io/badge/JavaFX-2C2255?style=for-the-badge&logo=java&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
----
-## 🥇 Badges of successfully completed courses
-
-<img src="https://raw.githubusercontent.com/nisalgunawardhana/docker-101/main/images/badge.png" width="200">
-<img src="https://raw.githubusercontent.com/nisalgunawardhana/Github-for-beginners/main/images/badge.png" width="200">
-
----
+<br>
 
 ## 📂 Featured Projects
 
 ### 🔹 [Mental Wellness Journal System](https://github.com/CalmCode-Solutions/Mental-Wellness-Journal-System-)
-> ![Completed](https://img.shields.io/badge/status-completed-brightgreen)
-> ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
-> ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-> 
-> A full-stack mental wellness application designed to help users track their emotional well-being and maintain a digital journal.
-> 
-> **✨ Features:**
-> - Mood tracking with visual analytics 📊
-> - Secure personal journaling 🔒
-> - Weekly/Monthly progress reports 📈
-> - Mindfulness reminders ⏰
-> - Data export functionality 📁
+> A full-stack mental wellness application built with **Spring Boot & React** to track emotional well-being.
 
-### 🔹 [Employee-Frontend](https://github.com/kavinda1996/Employee-Frontend)
-> ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
-> A beautiful front-end for managing employee records built using Angular.
-
-### 🔹 [Employee-Backend](https://github.com/kavinda1996/Employee-Backend)
-> ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
-> A robust Spring Boot REST API for managing employee data, providing full CRUD operations, secure endpoints, and integration support for the Angular front-end.
-
-### 🔹 [Customer Management Full-Stack Project](https://github.com/kavinda1996/customer-management-full-stack-project)
-> ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
-> ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
-> Full-stack project using Spring Boot backend and Angular frontend.
+### 🔹 [Employee Management System](https://github.com/kavinda1996/Employee-Frontend)
+> Robust CRUD application with **Angular** frontend and **Spring Boot** REST API.
 
 ### 🔹 [JavaFX POS System](https://github.com/kavinda1996/112-JavaFX-Thogakade)
-> ![JavaFX](https://img.shields.io/badge/JavaFX-2C2255?style=flat&logo=java&logoColor=white)
-> A modern POS system with JavaFX GUI and OOP design patterns.
+> A modern Point of Sale system with JavaFX GUI and OOP design patterns.
 
-### 🔹 [Phaser Coin Game](https://github.com/Kavinda-Gayashan-Hettige/Phaser-Coin-Game)
-> ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-> Using Google AI studio and JavaScript library.
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</p>
 
-### 🔹 [Burger Shop](https://github.com/Kavinda-Gayashan-Hettige/Burger-Shop-Full-Stack-Project)
-> ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
-> ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-> Backend Java Spring Boot and Frontend HTML CSS JavaScript.
+<h2 align="center">📈 GitHub Analytics</h2>
 
----
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kavinda-Gayashan-Hettige&theme=react-dark&bg_color=0D1117&hide_border=true&area=true&area_color=6e40c9&point=6e40c9&line=6e40c9&title_color=FFFFFF" alt="Contribution Graph" width="100%" />
+  <br/><br/>
+  <img src="https://streak-stats.demolab.com/?user=Kavinda-Gayashan-Hettige&theme=radical&hide_border=true" alt="GitHub Streak" height="180" />
+</div>
 
-## 📊 GitHub Stats
+<br>
 
+<div align="center">
+  <h2>Connect With Me🤝</h2>
+  <a href="https://www.linkedin.com/in/kavinda-gayashan-hettige-9116aa309" target="blank">
+    <img src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" />
+  </a>
+  <a href="mailto:gayashankavinda95@gmail.com">
+    <img src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="gmail" height="50" width="50" />
+  </a>
+</div>
 
-### 🔥 Contribution Streak
+<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Kavinda-Gayashan-Hettige&theme=tokyonight)](https://git.io/streak-stats)
-
-
----
-
-## 🙌 Let's Connect!
-
-Feel free to reach out via LinkedIn or Email if you'd like to collaborate or just say hi 👋
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kavinda-gayashan-hettige-9116aa309)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gayashankavinda95@gmail.com)
-
----
-
-### ⚡ Fun Fact
-When I'm not coding, you can find me exploring new technologies and working on personal projects to solve real-world problems! 🌟
-
----
-
-_✨ Let the code speak louder than words... ✨_
+<div align="center">
+  <i>✨ Let the code speak louder than words... ✨</i>
+</div>
