@@ -42,8 +42,8 @@ When I'm not coding, I'm exploring new technologies to solve real-world problems
 ### 🔹 [Mental Wellness Journal System](https://github.com/CalmCode-Solutions/Mental-Wellness-Journal-System-)
 > A full-stack mental wellness application built with **Spring Boot & React**.
 
-### 🔹 [Employee Management System](https://github.com/kavinda1996/Employee-Frontend)
-> Robust CRUD application with **Angular** frontend and **Spring Boot** REST API.
+### 🔹 [Securelaw-Gateway](https://github.com/iCET-Computer-Engineering-Technology/Securelaw-Gateway-Backend)
+> Masking Sensitive Data with **React** frontend and **Spring Boot** REST API with Python Service and Google AI Studio.
 
 <h2 align="center">📈 GitHub Analytics</h2>
 
