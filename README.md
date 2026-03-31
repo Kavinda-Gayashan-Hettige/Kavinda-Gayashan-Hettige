@@ -38,7 +38,7 @@ When I'm not coding, I'm exploring new technologies to solve real-world problems
 <br>
 
 <div align="center">
-  <h2>🥇 Badges of successfully completed courses</h2>
+  <h2>🥇 Badges of That I Successfully Completed Courses</h2>
   <img src="https://raw.githubusercontent.com/nisalgunawardhana/docker-101/main/images/badge.png" width="120" style="margin-right: 10px;">
   <img src="https://raw.githubusercontent.com/nisalgunawardhana/Github-for-beginners/main/images/badge.png" width="120">
 </div>
