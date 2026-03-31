@@ -58,6 +58,18 @@ When I'm not coding, I'm exploring new technologies to solve real-world problems
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kavinda-Gayashan-Hettige&theme=react-dark&bg_color=0D1117&hide_border=true&area=true&area_color=6e40c9&point=6e40c9&line=6e40c9&title_color=FFFFFF" alt="Contribution Graph" width="100%" />
 </div>
 
+<br>
+
+<h2 align="center">📈 GitHub Analytics</h2>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kavinda-Gayashan-Hettige&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <br/><br/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kavinda-Gayashan-Hettige&theme=react-dark&bg_color=0D1117&hide_border=true&area=true&area_color=6e40c9&point=6e40c9&line=6e40c9&title_color=FFFFFF" alt="Contribution Graph" width="100%" />
+</div>
+
+<br>
+
 <div align="center">
   <h2>Connect With Me🤝</h2>
   <a href="https://www.linkedin.com/in/kavinda-gayashan-hettige-9116aa309" target="blank">
